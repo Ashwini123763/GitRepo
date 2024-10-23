@@ -1,0 +1,2 @@
+This is git file
+this is a text file
