@@ -1,3 +1,0 @@
-This is git file
-this is a text file
-This is line 1
